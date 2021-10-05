@@ -1,0 +1,7 @@
+@endpoint = {{$dotenv NETLIFY_HOST}}
+
+###
+GET {{endpoint}}
+
+###
+GET {{endpoint}}another
